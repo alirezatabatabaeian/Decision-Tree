@@ -1,7 +1,5 @@
 # ***Decision Tree***
 
-## ***(Alireza Tabatabaeian)***
-
 ### ***Introduction:***
 
 ***A decision tree is a powerful and popular machine learning algorithm that is widely used for both classification and regression tasks. As its name suggests, a decision tree is a tree-like model that makes a sequence of decisions to arrive at a prediction or decision. Each internal node of the tree represents a decision, and each leaf node represents a class label or a numerical value. The tree is built by recursively splitting the data into subsets based on the values of the features until a stopping criterion is met.***
